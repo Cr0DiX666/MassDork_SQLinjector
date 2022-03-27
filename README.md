@@ -3,7 +3,68 @@
 Mass Dorks SQLinjector Priv8 Tools
 ```
 
+## INSTALLATIONS TERMUX & LINUX OS
+```
+Termux
 
+$ apt update
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ git clone https://github.com/Alice666x/MassDork_SQLinjector.git
+
+$ cd MassDork_SQLinjector
+
+$ pip2 install urllib2 urllib
+
+$ python2 Dork.py [List.txt]
+
+Setelah mendapatkan Results Vulnerable Gunakan Tools psqli! Pilih MassSQLi
+
+run?
+$ chmod +x psqli.sh
+
+$ bash psqli.sh or ./psqli.sh
+
+Happy Mass SQLInjector
+
+Kali Linux / Debian / Ubuntu / Kali Nethunter 
+
+Alice666x@CyberSec~> sudo apt-get update
+
+Alice666x@CyberSec~> sudo apt-get upgrade -y
+
+Alice666x@CyberSec~> sudo apt-get install git
+
+Alice666x@CyberSec~> git clone https://github.com/Alice666x/MassDork_SQLinjector.git
+
+Alice666x@CyberSec~> cd MassDork_SQLinjector
+
+Alice666x@CyberSec~> python2 -m pip install urllib2 urllib
+
+Alice666x@CyberSec~> python2 Dork.py [List.txt]
+
+Setelah Mendapatkan Results Silahkan Gunakan Tools Psqli AgressivInjector Dan Use Metode MassSQLi
+
+Run?
+
+Alice666x@CyberSec~> chmod +x psqli.sh
+
+Alice666x@CyberSec~> bash psqli.sh or ./psqli.sh
+
+Happy MassSQLinjector
+
+```
+
+## INSTALLATIONS SIMPLE:
+
+```
+sudo apt update && apt upgrade -y && apt install git -y && apt install wget && apt install python2 -y && wget https://raw.githubusercontent.com/Alice666x/MassDork_SQLinjector/main && chmod +x *
+```
 ## SpeciaL Thanks To 
 ```
 Terima Kasih Banyak Telah Melengkapi Tools DorksMass Kami. Dengan Adanya Tools AgressivInjector Tools Kami Tidak Bakal Sempurna >_<.
